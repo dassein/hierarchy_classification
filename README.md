@@ -5,8 +5,8 @@ This repository contains our unofficial re-implementation of the hierarchical ba
 ![stage 2](fig/hier_cls2.png)
 
 We also incoporated the hierarchical based embedding method into our codes to reduce the `average hierarchical distance of top-k` and the `hierarchical distance of a mistake` (see the paper [Hierarchy-Based Image Embeddings for Semantic Image Retrieval](https://arxiv.org/pdf/1809.09924.pdf)).
-![average distance](fig/dist1.png)
-![distance of a mistake](fig/dist2.png)
+![average distance](fig/dist_1.png)
+![distance of a mistake](fig/dist_2.png)
 The left diagrams show the hierarchical distances with ResNet-50 backbone only, while the right diagrams show the hierarchical distances for the hierarchical method with ResNet-50 backbone.
 
 ## dependencies
